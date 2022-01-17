@@ -1,0 +1,8 @@
+bin
+obj
+
+debug
+release
+*.log
+packages
+publish
